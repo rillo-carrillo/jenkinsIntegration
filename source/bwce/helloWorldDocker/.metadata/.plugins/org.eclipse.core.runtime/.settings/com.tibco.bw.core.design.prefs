@@ -1,0 +1,4 @@
+com.tibco.bw.core.design.pcf.connection.url=https\://api.local.pcfdev.io
+com.tibco.bw.core.design.pcf.connection.userid=admin
+com.tibco.bw.core.design.pcf.connection.userpassword=\#\!5UBLzTfYgeLUrcEIu9Hu7xSg6aBMMcA3
+eclipse.preferences.version=1

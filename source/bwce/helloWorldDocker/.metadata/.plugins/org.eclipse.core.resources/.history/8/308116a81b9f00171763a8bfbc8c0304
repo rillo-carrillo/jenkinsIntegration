@@ -1,0 +1,15 @@
+#PCF Properties
+#Thu Sep 21 15:04:32 CDT 2017
+bwpcf.instances=1
+bwpcf.trustSelfSignedCerts=true
+bwpcf.env.1=ERROR
+bwpcf.org=pcfdev-org
+bwpcf.env.0=PCFDev
+bwpcf.url=helloWorldPCF.local.pcfdev.io
+bwpcf.space=pcfdev-space
+bwpcf.server=PCF_UK_credential
+bwpcf.diskQuota=1024
+bwpcf.memory=1024
+bwpcf.appName=helloWorldPCF
+bwpcf.target=https\://api.local.pcfdev.io
+bwpcf.buildpack=bwce-buildpack-v2-3

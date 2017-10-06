@@ -1,0 +1,15 @@
+Console.highWaterMark=88000
+com.tibco.bw.core.design.debug.ui.launch.existingApplications=helloWordPCF/helloWorldDockers/
+com.tibco.bw.core.design.debug.ui.launch.processesArg=helloWordPCF\=hellowordpcf.module.Process/
+com.tibco.bw.core.design.debug.ui.launch.selectedApplications=helloWordPCF/
+com.tibco.bw.core.design.debug.ui.launch.selectedModules=helloWordPCF.module/
+com.tibco.bw.core.design.debug.ui.launch.selectedProcesses=helloWordPCF.module\=hellowordpcf.module.Process/
+com.tibco.bw.core.design.debug.ui.view.BWProcessInstanceView+com.tibco.bw.core.design.debug.ui.actions.BWShowInstanceSatckByTempleteAction=true
+eclipse.preferences.version=1
+org.eclipse.debug.ui.DebugView+com.tibco.bw.core.design.debug.ui.actions.BWShowStackByTempleteAction=true
+org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+org.eclipse.debug.ui.activate_debug_view=false
+org.eclipse.debug.ui.activate_workbench=false
+pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
+pref_state_memento.org.eclipse.debug.ui.VariableView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.VariableView"/>\r\n</VariablesViewMemento>
+preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
