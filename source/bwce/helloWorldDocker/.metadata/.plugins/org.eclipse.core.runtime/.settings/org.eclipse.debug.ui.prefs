@@ -1,9 +1,9 @@
 Console.highWaterMark=88000
 com.tibco.bw.core.design.debug.ui.launch.existingApplications=helloWordPCF/helloWorldDockers/
-com.tibco.bw.core.design.debug.ui.launch.processesArg=helloWordPCF\=hellowordpcf.module.Process/
-com.tibco.bw.core.design.debug.ui.launch.selectedApplications=helloWordPCF/
-com.tibco.bw.core.design.debug.ui.launch.selectedModules=helloWordPCF.module/
-com.tibco.bw.core.design.debug.ui.launch.selectedProcesses=helloWordPCF.module\=hellowordpcf.module.Process/
+com.tibco.bw.core.design.debug.ui.launch.processesArg=helloWorldDockers\=helloworlddockers.module.Process/
+com.tibco.bw.core.design.debug.ui.launch.selectedApplications=helloWorldDockers/
+com.tibco.bw.core.design.debug.ui.launch.selectedModules=helloWorldDockers.module/
+com.tibco.bw.core.design.debug.ui.launch.selectedProcesses=helloWorldDockers.module\=helloworlddockers.module.Process/
 com.tibco.bw.core.design.debug.ui.view.BWProcessInstanceView+com.tibco.bw.core.design.debug.ui.actions.BWShowInstanceSatckByTempleteAction=true
 eclipse.preferences.version=1
 org.eclipse.debug.ui.DebugView+com.tibco.bw.core.design.debug.ui.actions.BWShowStackByTempleteAction=true
